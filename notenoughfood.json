@@ -2,9 +2,9 @@
   "homepage": "www.gamingprovids.com",
   "promos": {
 
-    "1.20.1-recommended":   "1.0.0"
+    "1.21.1-recommended":   "0.0.1"
   },
-  "1.20.1": {
-    "1.0.0": "hotfix"
+  "1.21.1": {
+    "0.0.1": "First Version"
   }
 }
